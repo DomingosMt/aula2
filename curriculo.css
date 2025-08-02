@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(245, 236, 225);
+}
+
+h1 {
+    font-family: arial;
+    color: white;
+    background-color: rgb(184, 128, 9);
+    display: flex;
+    justify-content: center;
+    padding: 14px;
+    margin: 0;
+    border-radius: 10px;
+}
+
+.informacoes {
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 0;
+}
+
+.objetivo {
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 0;
+}
+
+.formacao {
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+.qualificacoes {
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
